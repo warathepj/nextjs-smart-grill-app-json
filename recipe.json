@@ -2,7 +2,19 @@
     "recipe": [
         {
             "id": 1,
-            "topic": "Classic Burger Bash"
+            "topic": "Classic Burger Bash",
+            "intro": "This recipe makes 4 cheeseburgers. You can adjust the recipe depending on how many burgers you want to make.",
+            "ingridient": 
+                [
+
+                    {
+                        "For the Burgers:": [
+                        "1 pound ground beef (80/20 lean-to-fat ratio is recommended for juiciness)",
+                        "1/2 teaspoon salt",
+                        "1/4 teaspoon black pepper"
+                        ]
+                    }
+                ]
         },
         {
             "name": "miki",
