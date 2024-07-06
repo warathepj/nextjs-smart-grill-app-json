@@ -4,23 +4,29 @@
             "id": "1",
             "topic": "Classic Burger Bash",
             "intro": "This recipe makes 4 cheeseburgers. You can adjust the recipe depending on how many burgers you want to make.",
-            "ingridient": 
-                [
-
-                    {
-                        "For the Burgers:": [
-                        "1 pound ground beef (80/20 lean-to-fat ratio is recommended for juiciness)",
-                        "1/2 teaspoon salt",
-                        "1/4 teaspoon black pepper",
-                        "4 hamburger buns",
-                        "4 slices cheese (American, Cheddar, Pepper Jack, or your favorite kind)"
-                        ]
-                    }
-                ]
+            "header1": "For the Burgers:",
+            "ingridient": ["1 pound ground beef (80/20 lean-to-fat ratio is recommended for juiciness)", "1/2 teaspoon salt", "1/4 teaspoon black pepper"]
         },
         {
-            "name": "miki",
-            "age": 14
+            "id": "1",
+            "topic": "Classic Burger Bash",
+            "intro": "This recipe makes 4 cheeseburgers. You can adjust the recipe depending on how many burgers you want to make.",
+            "ingridient for": "For the Burgers:",
+            "ingridient1": "1 pound ground beef (80/20 lean-to-fat ratio is recommended for juiciness)",
+            "ingridient2": "1/2 teaspoon salt",
+            "ingridient3": "1/4 teaspoon black pepper",
+            "ingridient4": "4 hamburger buns",
+            "ingridient5": "4 slices cheese (American, Cheddar, Pepper Jack, or your favorite kind)",
+            "for the toppings": "For the Toppings (optional):",
+            "topping1": "Ketchup",
+            "topping2": "Mustard",
+            "topping3": "Mayonnaise",
+            "topping4": "Lettuce leaves",
+            "topping5": "Tomato slices",
+            "topping6": "Red onion slices",
+            "topping7": "Pickle slices"
+                
+               
         }
     ]
 }
